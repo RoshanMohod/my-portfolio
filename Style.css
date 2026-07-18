@@ -1,0 +1,49 @@
+/* Remove default spacing */
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* Body */
+body{
+    font-family:Arial, sans-serif;
+}
+
+/* Navbar */
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background:#222;
+    color:white;
+    padding:20px 60px;
+}
+
+/* Logo */
+nav h2{
+    font-size:28px;
+}
+
+/* Menu */
+nav ul{
+    display:flex;
+    list-style:none;
+}
+
+/* Space between menu items */
+nav ul li{
+    margin-left:25px;
+}
+
+/* Links */
+nav ul li a{
+    color:white;
+    text-decoration:none;
+    font-size:18px;
+}
+
+/* Hover effect */
+nav ul li a:hover{
+    color:orange;
+}
