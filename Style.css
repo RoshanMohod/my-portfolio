@@ -429,3 +429,20 @@ nav ul li a:hover{
     background:white;
     color:#222;
 }
+#typing{
+
+    color:#8a7fac;
+
+    border-right:3px solid #ff9800;
+
+    padding-right:5px;
+
+    animation:blink .7s infinite;
+}
+
+@keyframes blink{
+
+    50%{
+        border-color:transparent;
+    }
+}
