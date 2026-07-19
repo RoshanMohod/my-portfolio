@@ -1,0 +1,11 @@
+* [33m34a5b4a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Merge remote changes
+* [33m4eb926d[m change profile
+* [33m08a7177[m change profile
+[31m|[m * [33m16f594b[m[33m ([m[1;31morigin/main[m[33m)[m Rename LostFound.png to lostfound.png
+[31m|[m * [33ma4a09a4[m Rename Script.js to script.js
+[31m|[m * [33mfa12e18[m Rename Style.css to style.css
+[31m|[m[31m/[m  
+* [33m0347ce8[m add mobile view
+* [33m8dfe3df[m .
+* [33mfbcc166[m Animated the intro
+* [33m735f4ed[m Made navbar sticky with hover animation
